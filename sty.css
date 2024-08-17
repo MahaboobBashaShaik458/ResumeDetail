@@ -230,32 +230,32 @@ table{
     padding: 0. 5rem;
 }
 
-.Training_Experience{
+.Internship_Experience{
     display: inline;
     color: #fff;
 }
 
-.Training_Experience .Row{
+.Internship_Experience .Row{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     padding: 3rem 0;
 }
-.Training_Experience .Row .det{
+.Internship_Experience .Row .det{
     flex: 1 1 48rem;
     padding: 2rem 1rem;
     padding-left: 8rem;
 }
 
-.Training_Experience .Row .det h3{
+.Internship_Experience .Row .det h3{
     font-size: 2rem;
     color: yellow;
     padding: 1rem 0;
     font-weight: normal;
 }
 
-.Training_Experience .Row .det h3 span{
+.Internship_Experience .Row .det h3 span{
     color: #eee;
     padding: 0. 5rem;
 }
@@ -320,32 +320,62 @@ table{
     padding: 0. 5rem;
 }
 
-.Inter_Personal_Skills{
+.Soft_Skills{
     display: inline;
     color: #fff;
 }
 
-.Inter_Personal_Skills .Row{
+.Soft_Skills .Row{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     padding: 3rem 0;
 }
-.Inter_Personal_Skills .Row .det{
+.Soft_Skills .Row .det{
     flex: 1 1 48rem;
     padding: 2rem 1rem;
     padding-left: 8rem;
 }
 
-.Inter_Personal_Skills .Row .det h3{
+.Soft_Skills .Row .det h3{
     font-size: 2rem;
     color:#fff;
     padding: 1rem 0;
     font-weight: normal;
 }
 
-.Inter_Personal_Skills .Row .det h3 span{
+.Soft_Skills .Row .det h3 span{
+    color: #eee;
+    padding: 0. 5rem;
+}
+
+.Interests{
+    display: inline;
+    color: #fff;
+}
+
+.Interests .Row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 0;
+}
+.Interests .Row .det{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 8rem;
+}
+
+.Interests .Row .det h3{
+    font-size: 2rem;
+    color:#fff;
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.Interests .Row .det h3 span{
     color: #eee;
     padding: 0. 5rem;
 }
@@ -379,6 +409,3 @@ table{
     color: #eee;
     padding: 0. 5rem;
 }
-
-sty.css
-Displaying sty.css
